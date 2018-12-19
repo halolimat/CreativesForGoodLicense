@@ -1,0 +1,115 @@
+          XWARE FOR GOOD GENERAL PUBLIC LICENSE
+              Version 1, 18 December 2018
+
+Copyright (C) 2018 Hussein S. Al-Olimat. <@halolimat>
+Everyone is permitted to copy and distribute verbatim 
+copies of this license document, but changing it is 
+not allowed.
+
+Preamble
+
+The xWare For Good General Public License is a free license for software 
+and other kinds of works, specifically designed to ensure the good impact 
+and the ethical and moral obligation when using the licensed works which 
+should only have an ultimate good impact.
+
+The licenses for most software and other practical works are designed to 
+ensure the freedom or constraints on sharing, changing, or using the works. 
+By contrast, this license is intended to guarantee the ethical usage and 
+moral obligation of the use of the works and is designed to work side by 
+side with other licenses without interfering with the aforementioned 
+constraints, or the lack thereof, intended for the usage of the works.
+
+The xWare For Good General Public License is designed specifically to 
+ensure that, the use of the source code as part of any other licensed works 
+(open, closed, etc) follows and adheres to the terms of this license (i.e., 
+the moral, ethical, and social good obligations).
+
+ThexWare For Good General Public License borrowed some terms from the GNU 
+Affero General Public License v3.0 and the BSD license.
+
+The precise terms and conditions for copying, distribution and modification 
+follow.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to version 1 of the xWare For Good General Public 
+License.
+
+"Usage License" refers to any software license that deals with an is 
+concerned about the redistribution of source code, besides other concerns 
+(e.g., the BSD 3-clause Clear license, GNU Lesser General Public License 
+v3.0, Apache license 2.0, etc).
+
+"The Works" refers to any copyrightable work licensed under this License.
+Each licensee is addressed as "you".  "Licensees" and "recipients" may be 
+individuals or organizations.
+
+To "use" or "modify" a work means to copy from, use, integrate with other 
+works, or adapt all or part of the work in a fashion requiring copyright 
+permission, other than the making of an exact copy. The resulting work is 
+called a "modified version" of the earlier work or a work "based on" the 
+earlier work.
+
+1. Basic Permissions.
+
+Redistribution and use of the source and binary forms, with or without 
+modification, is permitted provided that the usage license terms are met 
+in addition to this license terms below:
+
+a. Redistributions of source code must retain the above usage license 
+   notice, this list of conditions and the following disclaimer.
+   
+b. Redistributions in binary form must reproduce the above usage license 
+   notice, this list of conditions and the following disclaimer in the 
+   documentation and/or other materials provided with the distribution.
+   
+c. Neither the name of the Developers nor the names of its contributors 
+   may be used to endorse or promote products derived from this software 
+   without specific prior written permission.
+   
+d. The above copyright notice and this permission notice shall be included 
+   in all copies or substantial portions of the Software.
+
+e. The authors of this work must be acknowledged in the final documentation 
+   and any derived user interfaces.
+   
+f. You are not permitted in any way to use the software or hardware to 
+   create or reinforce unfair biases related to sensitive characteristics 
+   such as race, ethnicity, gender, nationality, income, sexual orientation, 
+   ability, and political or religious belief.
+   
+g. You are not permitted in any way to use the software or hardware as part of 
+   or alone in an application that might invade privacy of or as surveillance 
+   on individuals, groups, organizations, governments, or any other not list 
+   party without their written consent.
+   
+h. You are not permitted in any way to use the software or hardware as part or 
+   or alone in an application that might in the future or currently cause or 
+   lead to damage to people, animals, or the environment.
+   
+i. You are not permitted in any way to use the software or hardware in an 
+   application which cause or might cause harm to individuals, animals, the 
+   environment, organizations, or any objects or not list parties.
+   
+j. You are not permitted to use this hardware or software in an application for 
+   military use or in weapons that is designed to cause harm or injure people, 
+   animals, or cause  damage to the environment.
+   
+k. You are allowed only to use this software or hardware in the case of using 
+   it in an application which might lead to social good, scientific research, 
+   or overall good impact that is beneficial to individuals, animals, 
+   environment, and societies as a whole.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE REGENTS OR CONTRIBUTORS BE LIABLE FOR ANY 
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES 
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; 
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND 
+ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT 
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
