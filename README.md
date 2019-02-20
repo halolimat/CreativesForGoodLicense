@@ -1,4 +1,4 @@
-# Creatives For Good Public License
+# Creatives For Good General Public License
 
 This public license is not meant to replace the copyright licenses but worked alongside them.
 This license is meant to constrain the way we use our creative software or hardware works.
