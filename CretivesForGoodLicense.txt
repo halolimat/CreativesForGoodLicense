@@ -1,4 +1,4 @@
-          CREATIVES FOR GOOD GENERAL PUBLIC LICENSE
+          CREATIVES FOR GOOD PUBLIC LICENSE
               Version 1, 18 December 2018
 
 Copyright (C) 2018 Hussein S. Al-Olimat. <@halolimat>
@@ -8,7 +8,7 @@ not allowed.
 
 Preamble
 
-The Cretives For Good General Public License is a free license for software 
+The Cretives For Good Public License is a free license for software 
 and other kinds of works, specifically designed to ensure the good impact 
 and the ethical and moral obligation when using the licensed works which 
 should only have an ultimate good impact.
@@ -20,12 +20,12 @@ moral obligation of the use of the works and is designed to work side by
 side with other licenses without interfering with the aforementioned 
 constraints, or the lack thereof, intended for the usage of the works.
 
-The Cretives For Good General Public License is designed specifically to 
+The Cretives For Good Public License is designed specifically to 
 ensure that, the use of the source code as part of any other licensed works 
 (open, closed, etc) follows and adheres to the terms of this license (i.e., 
 the moral, ethical, and social good obligations).
 
-The Cretives For Good General Public License borrowed some terms from the GNU 
+The Cretives For Good Public License borrowed some terms from the GNU 
 Affero General Public License v3.0 and the BSD license.
 
 The precise terms and conditions for copying, distribution and modification 
@@ -35,7 +35,7 @@ TERMS AND CONDITIONS
 
 0. Definitions.
 
-"This License" refers to version 1 of the Cretives For Good General Public 
+"This License" refers to version 1 of the Cretives For Good Public 
 License.
 
 "Usage License" refers to any software license that deals with an is 
