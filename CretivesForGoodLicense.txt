@@ -103,6 +103,26 @@ k. You are allowed only to use this software or hardware in the case of using
    or overall good impact that is beneficial to individuals, animals, 
    environment, and societies as a whole.
 
+l. In the case of a breach in the agreement and if we (or any individual or 
+   organization) found that any of the terms of this license was missued we
+   have the right to sue the user of the software or hardware licensed by this
+   license in any court of law in the United States or around the world.
+
+m. You are not allowed in any way to use the software or hardware licensed by 
+   this license in the case you disagree with or might missuse the terms of the 
+   license in the future.
+   
+n. Any party or individual have the right to hold the user of the licensed work 
+   responsible for their missuse and can turn them in as soon as they found out 
+   about the faulty actions. They can also report any missuse to the licensor 
+   directly.
+
+o. If any of the clauses of this license does not comply with the State of Ohio 
+   laws it will not render the agreement moot.
+   
+p. This license can still be used and carry legal weight even if the licensor 
+   passes away.
+
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED 
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
