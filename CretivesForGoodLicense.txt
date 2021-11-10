@@ -104,7 +104,7 @@ k. You are allowed only to use this software or hardware in the case of using
    environment, and societies as a whole.
 
 l. In the case of a breach in the agreement and if we (or any individual or 
-   organization) found that any of the terms of this license was missued we
+   organization) found that any of the terms of this license was missused we
    have the right to sue the user of the software or hardware licensed by this
    license in any court of law in the United States or around the world.
 
